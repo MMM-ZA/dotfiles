@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = makoma44@gmail.com
+	name = makoma mabilo
